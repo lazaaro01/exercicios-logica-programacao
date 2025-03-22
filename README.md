@@ -152,7 +152,7 @@ Este programa simula o crescimento de um investimento ao longo de 12 meses, cons
 
 
 
-<h1>Dúvidas / Contato 🔍</h1>
+<h1> Contato 🔍</h1>
 
-> ❓[DÚVIDAS](https://github.com/SabrineSilva/exercicios-logica-de-programacao/discussions/4#discussion-6409526) 🌟 [MEU LINKEDIN](www.linkedin.com/in/lázaro-vasconcelos-87a968287)
+> 🌟 [MEU LINKEDIN](www.linkedin.com/in/lázaro-vasconcelos-87a968287)
 
