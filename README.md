@@ -148,11 +148,3 @@ Desenvolva um programa que solicita ao usuário inserir cinco números. Em segui
 ### 37. Simulador de Mercado Financeiro
 Descrição:
 Este programa simula o crescimento de um investimento ao longo de 12 meses, considerando diferentes tipos de investimentos: ações, fundos imobiliários e criptomoedas. O usuário fornece o valor inicial do investimento e as taxas mensais de crescimento de cada tipo de investimento. O programa calcula o saldo acumulado de cada tipo ao final de 12 meses e exibe os resultados.
-
-
-
-
-<h1> Contato 🔍</h1>
-
-> 🌟 [MEU LINKEDIN](www.linkedin.com/in/lázaro-vasconcelos-87a968287)
-
